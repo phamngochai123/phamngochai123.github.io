@@ -51,4 +51,4 @@ Chúng tôi không cố ý thu thập dữ liệu từ trẻ em.
 
 8. Liên hệ
 
-Email: your-email@gmail.com
+Email: phamngochai16032020@gmail.com
