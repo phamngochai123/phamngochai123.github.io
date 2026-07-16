@@ -1,0 +1,46 @@
+Privacy Policy
+
+Effective Date: July 16, 2026
+
+Thank you for using PDF Kit ("the App"). We respect your privacy and are committed to protecting your information.
+
+Information We Collect
+
+The App may request access to:
+
+Camera (to scan documents)
+Photos/Storage (to import images and save PDF files)
+Anonymous device information for crash reporting and performance improvements
+
+The App does not collect personal information such as your name, email address, or phone number unless you voluntarily provide it.
+
+How We Use Information
+
+We use information to:
+
+Scan documents and create PDF files
+Save and manage PDF files on your device
+Improve app performance and stability
+Display advertisements (if applicable)
+Data Storage
+
+Your documents and PDF files are stored locally on your device. We do not upload your files to our servers unless you explicitly use a cloud-sharing feature in the future.
+
+Third-Party Services
+
+The App may use:
+
+Google AdMob
+Google Firebase
+
+These services may collect limited technical information according to their own privacy policies.
+
+Changes
+
+We may update this Privacy Policy from time to time. Changes will be posted on this page.
+
+Contact
+
+For any questions regarding this Privacy Policy, please contact:
+
+Email: your-email@example.com
