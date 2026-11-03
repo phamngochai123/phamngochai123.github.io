@@ -1,0 +1,163 @@
+PRIVACY POLICY - Glass Phone
+CHÍNH SÁCH QUYỀN RIÊNG TƯ - Glass Phone
+
+Effective date / Ngày hiệu lực: 2026-11-03
+Developer / Nhà phát triển: Phạm Ngọc Hải
+Contact / Liên hệ: phamngochai16032020@gmail.com
+
+English version first, Vietnamese version below.
+Bản tiếng Anh ở trên, bản tiếng Việt ở bên dưới.
+
+
+==================================================
+ENGLISH
+==================================================
+
+This policy explains how Glass Phone ("the app") handles your information.
+
+
+1. SUMMARY
+
+- The app is a phone app. To work, it reads your contacts, call log and phone state ON YOUR DEVICE.
+- The developer does NOT collect, send or store that data on any server.
+- The app does not require an account.
+- The app shows ads from Google AdMob, which may collect some data as described in section 4.
+
+
+2. DATA THE APP ACCESSES ON YOUR DEVICE
+
+The app only accesses data when needed for the feature you are using, and only processes it on your device:
+
+- Contacts (name, phone numbers, email, notes, photo): to show your contacts, search, suggest contacts while you dial, show a contact's detail page, and show the caller's name.
+- Call log: to show the Recents tab, a contact's call history, and to delete entries at your request.
+- Phone state and SIM accounts: to list your SIMs so you can choose which SIM to call with.
+- Blocked numbers list: to show and edit the system block list at your request.
+- Current call information (number, name, state): to show the call screen and call notifications.
+- Photos you choose: if you pick a photo as a call-screen background, the app copies a resized version into its own private storage on your device. If you pick a photo for a contact, the app writes a cropped copy as that contact's photo in your contacts. Photos are chosen through the Android photo picker; the app only receives the photo you select, and never uploads it.
+
+The app can WRITE to your data only when you ask it to: add or edit a contact (through the system screen), mark a favorite, change or remove a contact photo, delete a contact, delete a call log entry, block or unblock a number.
+
+Quick-reply messages when you decline a call are sent by the Android system; the app does not have SMS access.
+
+The app does NOT record calls and does NOT use the microphone.
+
+Your appearance settings (colors, photos, themes per contact, button style) are stored locally on your device.
+
+
+3. SHARING
+
+The developer does not sell, rent or share your contacts or call log with any third party. When you choose "Share" for a contact or number, the content goes only to the app you pick in the Android share sheet.
+
+
+4. ADS (GOOGLE ADMOB)
+
+The app uses Google AdMob to show ads. AdMob may collect and use data such as the advertising ID, IP address, approximate location, device information and interactions with ads in order to deliver and measure ads and prevent fraud. This is done by Google under Google's policies: https://policies.google.com/privacy
+
+In the European Economic Area and the United Kingdom, the app shows a consent dialog (Google User Messaging Platform) before loading ads. You can manage personalized ads in Android Settings > Google > Ads.
+
+Your contacts, call log and call content are not used for advertising and are not given to AdMob.
+
+
+5. STORAGE AND SECURITY
+
+The developer does not store your personal data. Your contacts and call log stay in Android's own data store. The app's network connection is used for ads only and is encrypted in transit.
+
+
+6. YOUR CHOICES
+
+Because the developer does not store your personal data, there is no data to access or delete on our side. You can:
+- revoke any permission in Android Settings > Apps > Glass Phone > Permissions (some features will stop working);
+- switch back to another default phone app at any time;
+- uninstall the app to remove all locally stored settings and photos.
+
+
+7. CHILDREN
+
+The app is not directed to children under 13 (or the age of consent in your country), and the developer does not knowingly collect data from children.
+
+
+8. CHANGES
+
+If this policy changes, the new version will be posted at this address with a new effective date.
+
+
+9. CONTACT
+
+Questions about privacy: phamngochai16032020@gmail.com
+
+
+==================================================
+TIẾNG VIỆT
+==================================================
+
+Chính sách này giải thích Glass Phone ("ứng dụng") xử lý thông tin của bạn như thế nào.
+
+
+1. TÓM TẮT
+
+- Ứng dụng là ứng dụng điện thoại. Để hoạt động, nó đọc danh bạ, nhật ký cuộc gọi và trạng thái điện thoại TRÊN THIẾT BỊ CỦA BẠN.
+- Nhà phát triển KHÔNG thu thập, không gửi và không lưu những dữ liệu đó trên máy chủ nào.
+- Ứng dụng không yêu cầu tạo tài khoản.
+- Ứng dụng hiển thị quảng cáo của Google AdMob, đơn vị này có thể thu thập một số dữ liệu theo mục 4.
+
+
+2. DỮ LIỆU ỨNG DỤNG TRUY CẬP TRÊN THIẾT BỊ
+
+Ứng dụng chỉ truy cập dữ liệu khi cần cho tính năng bạn đang dùng, và chỉ xử lý trên thiết bị:
+
+- Danh bạ (tên, số điện thoại, email, ghi chú, ảnh): để hiển thị danh bạ, tìm kiếm, gợi ý liên hệ khi bạn gõ số, hiển thị trang chi tiết liên hệ và tên người gọi.
+- Nhật ký cuộc gọi: để hiển thị tab Gần đây, lịch sử cuộc gọi của từng liên hệ, và xoá bản ghi theo yêu cầu của bạn.
+- Trạng thái điện thoại và tài khoản SIM: để liệt kê SIM cho bạn chọn SIM khi gọi.
+- Danh sách số bị chặn: để hiển thị và chỉnh sửa danh sách chặn của hệ thống theo yêu cầu của bạn.
+- Thông tin cuộc gọi đang diễn ra (số, tên, trạng thái): để hiển thị màn hình cuộc gọi và thông báo cuộc gọi.
+- Ảnh bạn chọn: nếu bạn chọn một ảnh làm nền màn hình cuộc gọi, ứng dụng chép một bản đã thu nhỏ vào bộ nhớ riêng của ứng dụng trên thiết bị. Nếu bạn chọn ảnh cho một liên hệ, ứng dụng ghi một bản đã cắt vuông làm ảnh của liên hệ đó trong danh bạ. Ảnh được chọn qua bộ chọn ảnh của Android; ứng dụng chỉ nhận ảnh bạn chọn và không bao giờ tải ảnh lên.
+
+Ứng dụng chỉ GHI vào dữ liệu của bạn khi bạn yêu cầu: thêm hoặc sửa liên hệ (qua màn hình hệ thống), đánh dấu ưa thích, đổi hoặc xoá ảnh liên hệ, xoá liên hệ, xoá bản ghi cuộc gọi, chặn hoặc bỏ chặn số.
+
+Tin nhắn trả lời nhanh khi bạn từ chối cuộc gọi do hệ thống Android gửi; ứng dụng không có quyền truy cập SMS.
+
+Ứng dụng KHÔNG ghi âm cuộc gọi và KHÔNG dùng micro.
+
+Cài đặt giao diện (màu sắc, ảnh, theme riêng cho từng liên hệ, kiểu nút) được lưu cục bộ trên thiết bị.
+
+
+3. CHIA SẺ
+
+Nhà phát triển không bán, không cho thuê và không chia sẻ danh bạ hay nhật ký cuộc gọi của bạn với bất kỳ bên thứ ba nào. Khi bạn chọn "Chia sẻ" một liên hệ hoặc số điện thoại, nội dung chỉ được gửi tới ứng dụng mà bạn tự chọn trong hộp thoại chia sẻ của Android.
+
+
+4. QUẢNG CÁO (GOOGLE ADMOB)
+
+Ứng dụng dùng Google AdMob để hiển thị quảng cáo. AdMob có thể thu thập và sử dụng các dữ liệu như mã định danh quảng cáo, địa chỉ IP, vị trí ước lượng, thông tin thiết bị và tương tác với quảng cáo để phân phát, đo lường quảng cáo và chống gian lận. Việc này do Google thực hiện theo chính sách của Google: https://policies.google.com/privacy
+
+Ở Khu vực Kinh tế Châu Âu và Vương quốc Anh, ứng dụng hiển thị hộp thoại xin đồng ý (Google User Messaging Platform) trước khi tải quảng cáo. Bạn có thể quản lý quảng cáo cá nhân hoá trong Cài đặt Android > Google > Quảng cáo.
+
+Danh bạ, nhật ký cuộc gọi và nội dung cuộc gọi không được dùng cho quảng cáo và không được chuyển cho AdMob.
+
+
+5. LƯU TRỮ VÀ BẢO MẬT
+
+Nhà phát triển không lưu dữ liệu cá nhân của bạn. Danh bạ và nhật ký cuộc gọi vẫn nằm trong kho dữ liệu của hệ thống Android. Kết nối mạng của ứng dụng chỉ dùng cho quảng cáo và được mã hoá khi truyền.
+
+
+6. QUYỀN CỦA BẠN
+
+Vì nhà phát triển không lưu dữ liệu cá nhân của bạn nên không có dữ liệu nào để truy xuất hay xoá phía chúng tôi. Bạn có thể:
+- thu hồi bất kỳ quyền nào trong Cài đặt Android > Ứng dụng > Glass Phone > Quyền (một số tính năng sẽ ngừng hoạt động);
+- đổi lại ứng dụng điện thoại mặc định bất cứ lúc nào;
+- gỡ ứng dụng để xoá toàn bộ cài đặt và ảnh lưu cục bộ.
+
+
+7. TRẺ EM
+
+Ứng dụng không hướng tới trẻ em dưới 13 tuổi (hoặc dưới độ tuổi đồng ý theo luật nước bạn) và nhà phát triển không chủ ý thu thập dữ liệu của trẻ em.
+
+
+8. THAY ĐỔI
+
+Khi chính sách thay đổi, bản mới sẽ được đăng tại địa chỉ này cùng ngày hiệu lực mới.
+
+
+9. LIÊN HỆ
+
+Câu hỏi về quyền riêng tư: phamngochai16032020@gmail.com

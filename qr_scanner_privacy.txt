@@ -1,0 +1,163 @@
+PRIVACY POLICY - QR & Barcode Scanner
+CHÍNH SÁCH QUYỀN RIÊNG TƯ - QR & Barcode Scanner
+
+Effective date / Ngày hiệu lực: 2026-11-03
+Developer / Nhà phát triển: Phạm Ngọc Hải
+Contact / Liên hệ: phamngochai16032020@gmail.com
+
+English version first, Vietnamese version below.
+Bản tiếng Anh ở trên, bản tiếng Việt ở bên dưới.
+
+
+==================================================
+ENGLISH
+==================================================
+
+This policy explains how QR & Barcode Scanner ("the app") handles your information.
+
+
+1. SUMMARY
+
+- The app uses your camera only to scan QR codes and barcodes, and only on your device.
+- Camera images are not saved and are not uploaded anywhere.
+- The developer does not collect, store or receive the codes you scan or create.
+- The app does not require an account.
+- The app shows ads from Google AdMob. AdMob may collect some data as described in section 4.
+
+
+2. WHAT THE APP DOES ON YOUR DEVICE
+
+- Camera: used live to detect QR codes and barcodes. Processing happens on your device.
+- Photos you choose: if you pick a photo to scan, it is read through the Android photo picker and processed on your device. The app only receives the photo you select.
+- Scan and creation history: the codes you scan or create are stored in the app's private storage on your device so you can see them again. You can delete single items or clear all history in the app. Uninstalling the app removes them.
+- Saving images: a QR code image is saved to your gallery only when you choose "Save to gallery".
+- Sharing and copying: content is copied to the clipboard or sent to another app only when you tap Copy or Share.
+- Links, phone numbers, emails, maps: the app never opens or dials anything automatically. It opens another app only when you tap the matching button.
+- Wi-Fi codes: when you tap "Connect to Wi-Fi", Android shows its own confirmation. The app does not connect on its own.
+- Contact codes: when you tap "Add to contacts", the app opens Android's contact editor with the details filled in. The app does not read your contacts.
+- Payment codes (for example bank transfer QR codes): the app only shows the information in the code (bank, account number, amount, note). It does not make payments and does not contact any bank.
+
+Your preferences (for example vibration on scan) are stored locally on your device.
+
+
+3. SHARING
+
+The developer does not sell, rent or share the content of the codes you scan or create. Content you share goes only to the app you choose in the Android share sheet.
+
+
+4. ADS (GOOGLE ADMOB)
+
+The app uses Google AdMob to show ads. AdMob may collect and use data such as the advertising ID, IP address, approximate location, device information and interactions with ads in order to deliver and measure ads and prevent fraud. This is done by Google under Google's policies: https://policies.google.com/privacy
+
+In the European Economic Area and the United Kingdom, the app shows a consent dialog (Google User Messaging Platform) before loading ads. You can manage personalized ads in Android Settings > Google > Ads.
+
+The codes you scan, your history and your camera images are not used for advertising and are not given to AdMob.
+
+
+5. PURCHASES
+
+You can remove ads with a one-time purchase through Google Play. Payments are processed by Google Play. The developer does not receive your payment details.
+
+
+6. STORAGE AND SECURITY
+
+The developer does not store your personal data on any server. Your history stays on your device. The app's network connection is used for ads and purchases only and is encrypted in transit.
+
+
+7. YOUR CHOICES
+
+- Revoke the camera permission at any time in Android Settings > Apps > QR & Barcode Scanner > Permissions. You can still scan from a photo.
+- Delete history items or clear all history inside the app.
+- Uninstall the app to remove all locally stored data.
+
+
+8. CHILDREN
+
+The app is not directed to children under 13 (or the age of consent in your country), and the developer does not knowingly collect data from children.
+
+
+9. CHANGES
+
+If this policy changes, the new version will be posted at this address with a new effective date.
+
+
+10. CONTACT
+
+Questions about privacy: phamngochai16032020@gmail.com
+
+
+==================================================
+TIẾNG VIỆT
+==================================================
+
+Chính sách này giải thích QR & Barcode Scanner ("ứng dụng") xử lý thông tin của bạn như thế nào.
+
+
+1. TÓM TẮT
+
+- Ứng dụng chỉ dùng camera để quét mã QR và mã vạch, và chỉ xử lý ngay trên thiết bị của bạn.
+- Hình ảnh từ camera không được lưu và không được tải lên bất kỳ đâu.
+- Nhà phát triển không thu thập, không lưu và không nhận nội dung các mã bạn quét hay tạo.
+- Ứng dụng không yêu cầu tạo tài khoản.
+- Ứng dụng hiển thị quảng cáo của Google AdMob. AdMob có thể thu thập một số dữ liệu như mô tả ở mục 4.
+
+
+2. ỨNG DỤNG LÀM GÌ TRÊN THIẾT BỊ CỦA BẠN
+
+- Camera: dùng trực tiếp để nhận diện mã QR và mã vạch. Việc xử lý diễn ra trên thiết bị.
+- Ảnh bạn chọn: nếu bạn chọn một ảnh để quét, ảnh được đọc qua bộ chọn ảnh của Android và xử lý trên thiết bị. Ứng dụng chỉ nhận ảnh bạn chọn.
+- Lịch sử quét và tạo mã: các mã bạn quét hoặc tạo được lưu trong bộ nhớ riêng của ứng dụng trên thiết bị để bạn xem lại. Bạn có thể xoá từng mục hoặc xoá toàn bộ lịch sử trong ứng dụng. Gỡ ứng dụng sẽ xoá chúng.
+- Lưu ảnh: ảnh mã QR chỉ được lưu vào thư viện khi bạn chọn "Lưu vào thư viện".
+- Chia sẻ và sao chép: nội dung chỉ được sao chép vào bộ nhớ tạm hoặc gửi sang ứng dụng khác khi bạn bấm Sao chép hoặc Chia sẻ.
+- Liên kết, số điện thoại, email, bản đồ: ứng dụng không bao giờ tự mở hay tự gọi. Ứng dụng chỉ mở ứng dụng khác khi bạn bấm nút tương ứng.
+- Mã Wi-Fi: khi bạn bấm "Kết nối Wi-Fi", Android hiện hộp thoại xác nhận của chính hệ thống. Ứng dụng không tự kết nối.
+- Mã danh thiếp: khi bạn bấm "Thêm vào danh bạ", ứng dụng mở trình soạn liên hệ của Android với thông tin đã điền sẵn. Ứng dụng không đọc danh bạ của bạn.
+- Mã thanh toán (ví dụ mã QR chuyển khoản ngân hàng): ứng dụng chỉ hiển thị thông tin có trong mã (ngân hàng, số tài khoản, số tiền, nội dung). Ứng dụng không thực hiện thanh toán và không liên hệ với ngân hàng nào.
+
+Cài đặt của bạn (ví dụ rung khi quét) được lưu cục bộ trên thiết bị.
+
+
+3. CHIA SẺ
+
+Nhà phát triển không bán, không cho thuê và không chia sẻ nội dung các mã bạn quét hoặc tạo. Nội dung bạn chia sẻ chỉ đến ứng dụng mà bạn chọn trong hộp thoại chia sẻ của Android.
+
+
+4. QUẢNG CÁO (GOOGLE ADMOB)
+
+Ứng dụng dùng Google AdMob để hiển thị quảng cáo. AdMob có thể thu thập và sử dụng các dữ liệu như mã định danh quảng cáo, địa chỉ IP, vị trí ước lượng, thông tin thiết bị và tương tác với quảng cáo để phân phát, đo lường quảng cáo và chống gian lận. Việc này do Google thực hiện theo chính sách của Google: https://policies.google.com/privacy
+
+Ở Khu vực Kinh tế Châu Âu và Vương quốc Anh, ứng dụng hiển thị hộp thoại xin đồng ý (Google User Messaging Platform) trước khi tải quảng cáo. Bạn có thể quản lý quảng cáo cá nhân hoá trong Cài đặt Android > Google > Quảng cáo.
+
+Các mã bạn quét, lịch sử và hình ảnh camera không được dùng cho quảng cáo và không được chuyển cho AdMob.
+
+
+5. MUA TRONG ỨNG DỤNG
+
+Bạn có thể bỏ quảng cáo bằng một lần mua qua Google Play. Thanh toán do Google Play xử lý. Nhà phát triển không nhận thông tin thanh toán của bạn.
+
+
+6. LƯU TRỮ VÀ BẢO MẬT
+
+Nhà phát triển không lưu dữ liệu cá nhân của bạn trên bất kỳ máy chủ nào. Lịch sử nằm trên thiết bị của bạn. Kết nối mạng của ứng dụng chỉ dùng cho quảng cáo và mua trong ứng dụng, và được mã hoá khi truyền.
+
+
+7. LỰA CHỌN CỦA BẠN
+
+- Thu hồi quyền camera bất cứ lúc nào trong Cài đặt Android > Ứng dụng > QR & Barcode Scanner > Quyền. Bạn vẫn quét được từ ảnh.
+- Xoá từng mục lịch sử hoặc xoá toàn bộ trong ứng dụng.
+- Gỡ ứng dụng để xoá mọi dữ liệu lưu cục bộ.
+
+
+8. TRẺ EM
+
+Ứng dụng không hướng tới trẻ em dưới 13 tuổi (hoặc dưới độ tuổi đồng ý theo luật nước bạn) và nhà phát triển không chủ ý thu thập dữ liệu của trẻ em.
+
+
+9. THAY ĐỔI
+
+Khi chính sách thay đổi, bản mới sẽ được đăng tại địa chỉ này cùng ngày hiệu lực mới.
+
+
+10. LIÊN HỆ
+
+Câu hỏi về quyền riêng tư: phamngochai16032020@gmail.com
