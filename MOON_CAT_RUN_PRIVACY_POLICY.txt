@@ -1,0 +1,88 @@
+MOON CAT - PRIVACY POLICY
+Last updated: 5 November 2026
+
+======================================================================
+ENGLISH
+======================================================================
+
+This policy explains how Moon Cat ("the app", package com.haipn.pixelhop) handles information.
+
+THE SHORT VERSION
+- Moon Cat has no accounts, no servers of its own, and does not collect your name, email or contact details.
+- Photos you choose as hero pictures stay on your device. They are never uploaded.
+- The app shows ads provided by Google AdMob, which may collect some device information as described below.
+
+INFORMATION STORED ON YOUR DEVICE
+The app saves the following only on your device, in its private storage:
+- your best distance and your last selected hero;
+- the photos you choose to use as heroes (resized copies) and the names you give your heroes.
+
+This information is not sent to us or to anyone else. It is deleted when you uninstall the app or clear its data. You can also remove any hero photo inside the app (tap the red X on its card).
+
+PHOTOS
+When you tap "Upload photo", the app opens Android's system photo picker. You choose the photos; the app does not request access to your whole photo library. The selected photos are resized and stored privately on your device and are used only to draw your hero in the game.
+
+ADVERTISING (GOOGLE ADMOB)
+Moon Cat shows ads using Google AdMob (Google Mobile Ads SDK). Depending on your region, settings and consent, AdMob and its partners may collect and use:
+- your device's advertising ID and other device identifiers;
+- approximate location (derived from your IP address);
+- information about how you interact with ads and the app, and diagnostic data (such as crash logs).
+
+This is used to serve and measure ads, to prevent fraud and to improve the services. We do not receive this data about you ourselves. Google's use of data is described at https://policies.google.com/technologies/partner-sites and in the Google Privacy Policy at https://policies.google.com/privacy
+
+Consent and choices:
+- If you are in the European Economic Area, the United Kingdom or Switzerland, the app shows a consent message (Google User Messaging Platform) before personalised ads, and you can change your choice later.
+- You can reset or delete your advertising ID, or opt out of ad personalisation, in your Android settings (Settings > Google > Ads).
+
+CHILDREN
+Moon Cat is not directed to children under 13, and we do not knowingly collect personal information from children. If you are a parent or guardian and believe a child has provided personal information, please contact us.
+
+DATA SHARING
+We do not sell your personal information. The only third party that receives data through the app is Google (AdMob), as described above.
+
+SECURITY
+Data sent to ad networks is transmitted over encrypted connections. Data stored on your device is kept in the app's private storage.
+
+CHANGES
+We may update this policy. The "Last updated" date above shows when it last changed.
+
+CONTACT
+For questions about this policy, contact: phamngochai16032020@gmail.com
+
+
+======================================================================
+TIENG VIET
+======================================================================
+
+Chinh sach nay giai thich cach Moon Cat (goi com.haipn.pixelhop) xu ly thong tin.
+
+TOM TAT
+- Moon Cat khong co tai khoan, khong co may chu rieng, va khong thu thap ten, email hay thong tin lien he cua ban.
+- Anh ban chon lam nhan vat chi nam tren may cua ban, khong bao gio duoc tai len.
+- App hien thi quang cao cua Google AdMob; AdMob co the thu thap mot so thong tin thiet bi nhu mo ta ben duoi.
+
+THONG TIN LUU TREN MAY
+App chi luu tren may cua ban, trong bo nho rieng cua app: quang duong ky luc, nhan vat chon lan truoc, cac anh ban dung lam nhan vat (ban da thu nho) va ten ban dat cho nhan vat. Nhung thong tin nay khong duoc gui cho chung toi hay bat ky ai khac. Chung bi xoa khi ban go app hoac xoa du lieu app. Ban cung co the xoa tung anh nhan vat ngay trong app (bam nut X do tren the).
+
+ANH
+Khi ban bam "Upload photo", app mo bo chon anh cua he thong Android. Ban tu chon anh; app khong xin quyen truy cap toan bo thu vien anh. Anh duoc thu nho va luu rieng tren may, chi dung de ve nhan vat trong game.
+
+QUANG CAO (GOOGLE ADMOB)
+Moon Cat hien thi quang cao bang Google AdMob. Tuy khu vuc, cai dat va su dong y cua ban, AdMob va doi tac co the thu thap va dung: ma quang cao va cac ma dinh danh thiet bi khac; vi tri gan dung (suy ra tu dia chi IP); thong tin ve cach ban tuong tac voi quang cao va app, cung du lieu chan doan (nhu nhat ky loi). Du lieu nay dung de phan phoi va do luong quang cao, chong gian lan va cai thien dich vu. Chung toi khong truc tiep nhan du lieu do ve ban. Cach Google su dung du lieu duoc mo ta tai https://policies.google.com/technologies/partner-sites va Chinh sach quyen rieng tu cua Google tai https://policies.google.com/privacy
+
+Su dong y va lua chon: Neu ban o Khu vuc Kinh te Chau Au, Vuong quoc Anh hoac Thuy Si, app hien thong bao xin dong y (Google User Messaging Platform) truoc khi hien quang cao ca nhan hoa va ban co the doi lua chon sau nay. Ban co the dat lai/xoa ma quang cao hoac tat ca nhan hoa quang cao trong cai dat Android (Cai dat > Google > Quang cao).
+
+TRE EM
+Moon Cat khong danh cho tre duoi 13 tuoi va chung toi khong co y thu thap thong tin ca nhan cua tre em. Neu ban la phu huynh va cho rang tre da cung cap thong tin ca nhan, vui long lien he voi chung toi.
+
+CHIA SE DU LIEU
+Chung toi khong ban thong tin ca nhan cua ban. Ben thu ba duy nhat nhan du lieu qua app la Google (AdMob), nhu da neu.
+
+BAO MAT
+Du lieu gui toi mang quang cao duoc truyen qua ket noi ma hoa. Du lieu luu tren may nam trong bo nho rieng cua app.
+
+THAY DOI
+Chung toi co the cap nhat chinh sach nay; ngay "Last updated" phia tren cho biet lan thay doi gan nhat.
+
+LIEN HE
+Moi thac mac ve chinh sach nay, vui long lien he: phamngochai16032020@gmail.com
