@@ -1,0 +1,103 @@
+Chính sách quyền riêng tư - Thạch Sanh Truyền Kỳ
+
+Ngày hiệu lực: 26/11/2026
+
+1. Giới thiệu
+Chính sách này áp dụng cho ứng dụng Android «Thạch Sanh Truyền Kỳ» (tên tiếng Anh: Thach Sanh Legend, mã gói com.thachsanh.haipn), sau đây gọi là «Game». Game do Phạm Ngọc Hải phát hành. Liên hệ: phamngochai16032020@gmail.com.
+Game không có tài khoản, không yêu cầu đăng nhập, không có chat, không có mua hàng bằng tiền thật. Chúng tôi không chủ động thu thập thông tin cá nhân của bạn.
+
+2. Dữ liệu lưu trên máy của bạn
+Tiến trình chơi (cấp, vàng, vật phẩm, nhiệm vụ, cài đặt như ngôn ngữ, phong cách tranh, thời tiết) được lưu ngay trong bộ nhớ của ứng dụng trên thiết bị. Dữ liệu này không được gửi về máy chủ của chúng tôi (chúng tôi không có máy chủ cho Game).
+Khi bạn gỡ cài đặt Game hoặc xóa dữ liệu ứng dụng trong Cài đặt Android, dữ liệu này bị xóa.
+
+3. Quảng cáo và dữ liệu do Google thu thập
+Game hiển thị quảng cáo bằng Google AdMob (Google Mobile Ads SDK). Khi quảng cáo được tải và hiển thị, Google và các đối tác quảng cáo của Google có thể thu thập và xử lý dữ liệu từ thiết bị của bạn, gồm:
+- Mã định danh quảng cáo (Advertising ID) và mã định danh thiết bị/ứng dụng khác (ví dụ App Set ID).
+- Địa chỉ IP (có thể dùng để ước tính vị trí tương đối, không phải vị trí GPS chính xác).
+- Thông tin thiết bị và phần mềm (kiểu máy, phiên bản Android, ngôn ngữ, kích thước màn hình...).
+- Tương tác với quảng cáo và ứng dụng (số lần mở app, lượt xem, lượt bấm quảng cáo).
+- Thông tin chẩn đoán và lỗi của SDK (hiệu năng, sự cố).
+
+Mục đích: hiển thị và đo lường quảng cáo, chống gian lận, phân tích, duy trì và cải thiện dịch vụ quảng cáo. Dữ liệu được mã hóa khi truyền qua mạng (TLS).
+Chúng tôi không bán dữ liệu cá nhân của bạn. Chúng tôi không nhận được các dữ liệu trên dưới dạng nhận diện cá nhân; dữ liệu do Google xử lý theo chính sách của Google.
+Cách Google sử dụng dữ liệu từ các ứng dụng của đối tác: https://policies.google.com/technologies/partner-sites
+
+4. Đồng ý và lựa chọn của bạn
+- Người dùng tại Khu vực Kinh tế Châu Âu (EEA), Vương quốc Anh và Thụy Sĩ: Game dùng nền tảng User Messaging Platform (UMP) của Google để hỏi ý kiến đồng ý trước khi hiển thị quảng cáo cá nhân hóa. Bạn có thể thay đổi lựa chọn khi biểu mẫu được hiển thị lại.
+- Tắt cá nhân hóa quảng cáo: trong Android vào Cài đặt > Google > Quảng cáo (hoặc Cài đặt > Quyền riêng tư > Quảng cáo) để tắt cá nhân hóa quảng cáo hoặc đặt lại/xóa mã định danh quảng cáo. Tên menu có thể khác tùy hãng máy.
+- Bạn có thể bỏ qua mọi quảng cáo thưởng; các quảng cáo này chỉ xem khi bạn chủ động bấm nút.
+- Bạn có thể quản lý quảng cáo tại https://adssettings.google.com.
+
+5. Quyền của bạn
+Tùy luật nơi bạn sống (ví dụ GDPR tại EEA/Anh, hoặc luật bảo vệ dữ liệu cá nhân của Việt Nam), bạn có thể có quyền truy cập, chỉnh sửa, xóa, hạn chế hoặc phản đối việc xử lý dữ liệu cá nhân. Vì Game không lưu dữ liệu cá nhân của bạn trên máy chủ của chúng tôi, các yêu cầu liên quan đến dữ liệu quảng cáo cần gửi đến Google (xem liên kết ở mục 3 và adssettings.google.com). Bạn vẫn có thể liên hệ chúng tôi tại phamngochai16032020@gmail.com nếu có câu hỏi.
+
+6. Trẻ em
+Game không hướng đến trẻ em dưới 13 tuổi và chúng tôi không cố ý thu thập thông tin từ trẻ em dưới 13 tuổi. Nếu bạn là phụ huynh và cho rằng con bạn đã cung cấp thông tin cho chúng tôi, hãy liên hệ phamngochai16032020@gmail.com.
+
+7. Chia sẻ dữ liệu
+Chúng tôi không bán và không chia sẻ dữ liệu cá nhân cho bên thứ ba, ngoại trừ dữ liệu quảng cáo do Google AdMob thu thập trực tiếp như mô tả ở mục 3. Chúng tôi không dùng công cụ phân tích hay theo dõi nào khác.
+
+8. Quyền truy cập thiết bị
+Game chỉ xin quyền truy cập Internet và xem trạng thái mạng (để hiển thị quảng cáo). Game không truy cập vị trí, danh bạ, ảnh, camera hay micro.
+
+9. Bảo mật
+Dữ liệu quảng cáo được SDK của Google mã hóa khi truyền. Dữ liệu chơi lưu trên máy được bảo vệ theo cơ chế cách ly ứng dụng của Android.
+
+10. Thay đổi chính sách
+Chúng tôi có thể cập nhật chính sách này. Phiên bản mới sẽ được đăng tại cùng địa chỉ và ngày hiệu lực được cập nhật.
+
+11. Liên hệ
+phamngochai16032020@gmail.com
+
+------------------------- ENGLISH -------------------------
+
+Privacy Policy - Thach Sanh Legend
+
+Effective date: 26 November 2026
+
+1. Introduction
+This policy applies to the Android app "Thach Sanh Legend" (Vietnamese title: Thạch Sanh Truyền Kỳ, package com.thachsanh.haipn), the "Game". The Game is published by Phạm Ngọc Hải. Contact: phamngochai16032020@gmail.com.
+The Game has no accounts, no sign-in, no chat and no real-money purchases. We do not actively collect your personal information.
+
+2. Data stored on your device
+Your progress (level, gold, items, quests, and settings such as language, art style and weather) is stored in the app's storage on your device. It is not sent to our servers (we do not operate a server for the Game).
+Uninstalling the Game or clearing the app's data in Android Settings deletes this data.
+
+3. Ads and data collected by Google
+The Game shows ads using Google AdMob (Google Mobile Ads SDK). When ads are loaded and shown, Google and its advertising partners may collect and process data from your device, including:
+- Advertising ID and other device/app identifiers (for example App Set ID).
+- IP address (which may be used to estimate approximate location, not precise GPS location).
+- Device and software information (model, Android version, language, screen size, etc.).
+- Interactions with ads and the app (app launches, ad views, ad taps).
+- SDK diagnostics and crash information (performance, crashes).
+
+Purposes: serving and measuring ads, fraud prevention, analytics, and maintaining and improving ad services. Data is encrypted in transit (TLS).
+We do not sell your personal data. We do not receive the above data in an identifiable form; data processed by Google is governed by Google's policies.
+How Google uses data from partner apps: https://policies.google.com/technologies/partner-sites
+
+4. Consent and your choices
+- Users in the European Economic Area (EEA), the United Kingdom and Switzerland: the Game uses Google's User Messaging Platform (UMP) to ask for your consent before showing personalized ads. You can change your choice when the form is shown again.
+- Turn off ad personalization: in Android go to Settings > Google > Ads (or Settings > Privacy > Ads) to turn off ad personalization or reset/delete your advertising ID. Menu names may vary by device maker.
+- Rewarded ads are optional and only play when you tap the button.
+- You can manage ads at https://adssettings.google.com.
+
+5. Your rights
+Depending on the law where you live (for example GDPR in the EEA/UK, or Vietnam's personal data protection law), you may have rights to access, correct, delete, restrict or object to the processing of personal data. Because the Game does not store your personal data on our servers, requests about advertising data should be sent to Google (see the link in section 3 and adssettings.google.com). You may still contact us at phamngochai16032020@gmail.com with any questions.
+
+6. Children
+The Game is not directed to children under 13 and we do not knowingly collect information from children under 13. If you are a parent and believe your child has provided information to us, contact phamngochai16032020@gmail.com.
+
+7. Data sharing
+We do not sell or share personal data with third parties, except for advertising data collected directly by Google AdMob as described in section 3. We use no other analytics or tracking tools.
+
+8. Device permissions
+The Game only requests Internet access and network state (to show ads). It does not access location, contacts, photos, camera or microphone.
+
+9. Security
+Advertising data is encrypted in transit by Google's SDK. Gameplay data on your device is protected by Android's app sandbox.
+
+10. Changes to this policy
+We may update this policy. The new version will be posted at the same address with an updated effective date.
+
+11. Contact
+phamngochai16032020@gmail.com
