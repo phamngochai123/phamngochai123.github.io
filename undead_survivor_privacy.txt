@@ -1,0 +1,38 @@
+Undead Survivor: Zombie Horde - Privacy Policy
+
+Last updated: 26/11/2026
+Developer: Phạm Ngọc Hải
+Contact: phamngochai16032020@gmail.com
+
+This policy explains what the Android game "Undead Survivor: Zombie Horde" ("the app") does with information. The app has no accounts, no servers of ours and no in-app purchases. We do not collect or sell personal information ourselves.
+
+1. Information stored on your device
+- Game progress: the highest stage you have unlocked. It is stored only on your device (in the app's private storage) and is removed when you uninstall the app.
+- A small local flag recording that the app has been launched before (used only to decide when app-open ads may appear).
+The app does not ask for access to your photos, files, contacts, camera, microphone or location.
+
+2. Advertising (Google AdMob)
+The app shows ads provided by Google AdMob: app-open ads (shown when you open the app or return to it, never the first time you ever launch it), full-screen ads that may appear between stages, and rewarded ads that are shown only when you choose to watch one (to revive after a defeat).
+
+To serve and measure ads, Google and its partners may collect and process, according to Google's Privacy Policy (https://policies.google.com/privacy): your device's advertising ID, IP address, device and app information (model, OS version, app version), approximate location derived from the IP address, and ad interaction data. The app requests the AD_ID permission for this purpose.
+- In the European Economic Area, the United Kingdom and similar regions the app asks for your consent (Google User Messaging Platform) before ads are requested, and lets you change your choice at any time with the "Privacy settings" button on the stage-select screen.
+- You can reset or delete your advertising ID, or opt out of personalised ads, in Android Settings > Privacy > Ads.
+
+3. Permissions
+- INTERNET and ACCESS_NETWORK_STATE: to load ads (and, when installed from Google Play, to check for app updates through Google Play).
+- AD_ID and related advertising permissions (declared by the ads SDK): advertising ID for ads.
+
+4. Children
+The app is not directed to children under 13 and we do not knowingly collect personal information from children. The game contains cartoon violence against zombies.
+
+5. Sharing
+We do not sell or share personal information. The only third party that receives data through the app is Google (AdMob, and Google Play for updates), as described above.
+
+6. Data retention and deletion
+All data we store lives on your device; uninstalling the app deletes it. Data held by Google for advertising is governed by Google's policies and your Android ad settings.
+
+7. Changes
+We may update this policy; the date at the top shows the latest version.
+
+8. Contact
+Questions or requests: phamngochai16032020@gmail.com
