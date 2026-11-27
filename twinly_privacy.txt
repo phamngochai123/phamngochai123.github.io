@@ -1,0 +1,42 @@
+Twinly - Privacy Policy
+
+Last updated: 27/11/2026
+Developer: Phạm Ngọc Hải
+Contact: phamngochai16032020@gmail.com
+
+This policy explains what the Android app "Twinly" ("the app") does with information. Twinly lets you run a second copy of apps that are already installed on your phone, each copy with its own data and account. Twinly has no user accounts, no servers of ours and no in-app purchases. We do not collect, sell or upload your personal information.
+
+1. What stays on your device
+- The copies you create and all their data (logins, messages, files of the copied apps) are stored only in Twinly's private storage on your phone. Copies in different spaces are kept apart from each other and from the original app.
+- Space names you choose, and the list/order of your copies.
+- App-lock passwords: if you lock a copy with a password, only a salted, one-way hash of that password is stored on your device. The password itself is never stored or sent anywhere.
+- To show which apps can be copied, Twinly reads the list of apps installed on your phone. This list is only used on your device and is never uploaded.
+Twinly turns off Android cloud backup for its data. Uninstalling Twinly deletes everything above.
+
+2. Copied apps and permissions
+Twinly declares Android permissions such as camera, microphone, location, contacts, calendar, phone state, photos and media, Bluetooth, notifications and accounts so that the apps you copy can keep working inside Twinly (for example, so a copied messenger can take a photo). Android asks you before any of these is granted, and you can refuse or revoke them in Android Settings at any time. Twinly itself does not read, collect or send this data; it is used only by the copied app you are using.
+Each copied app keeps its own behaviour and its own privacy policy. What a copied app does with your data (for example, a social network app you sign in to) is governed by that app's developer and policy, not by Twinly.
+
+3. Advertising (Google AdMob)
+Twinly shows ads provided by Google AdMob, only in Twinly's own screens (never inside the copied apps): a banner on the main screen, an ad when you open Twinly or return to it after a while, and occasional full-screen ads when you add an app or open a copy.
+To serve and measure ads, Google and its partners may collect and process, according to Google's Privacy Policy (https://policies.google.com/privacy): your device's advertising ID, IP address, device and app information, approximate location derived from the IP address, and ad interaction data. The app requests the AD_ID permission for this purpose.
+- In the European Economic Area, the United Kingdom and similar regions, Twinly asks for your consent (Google User Messaging Platform) before ads are requested. You can change your choice at any time in Twinly > Settings > Ad privacy settings.
+- You can reset or delete your advertising ID, or opt out of personalised ads, in Android Settings > Privacy > Ads.
+
+4. App updates
+When installed from Google Play, Twinly asks Google Play whether a newer version exists and, if so, shows Google Play's update screen.
+
+5. Children
+Twinly is not directed to children under 13 and we do not knowingly collect personal information from children.
+
+6. Sharing
+We do not sell or share personal information. The only third party that receives data through Twinly's own features is Google (AdMob for ads, Google Play for updates), as described above.
+
+7. Data retention and deletion
+All data Twinly stores lives on your device. You can remove a single copy (and its data) in the app, clear a copy's data, or uninstall Twinly to delete everything. Data held by Google for advertising is governed by Google's policies and your Android ad settings.
+
+8. Changes
+We may update this policy; the date at the top shows the latest version.
+
+9. Contact
+Questions or requests: phamngochai16032020@gmail.com
